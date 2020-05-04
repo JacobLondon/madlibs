@@ -1,0 +1,12 @@
+I am a #RACE.
+
+A lesser noble, My name is #NAME. I reside from the castle #PLACE and control the fiefs of #PLACE and #PLACE. My fiefs are known for the production of #NOUN and #NOUN. With a specialty in #NOUN. They require #NOUN to be shipped to them. My land is located #NORTHSOUTH, #EASTWEST of the capital, Loforia.
+I have been known to fight #FIGHT.
+
+In my spare time, I like to #VERB. As a child my family taught me the ways of our land's magic. The magic is #MAGICTYPE using the element of #ELEMENT. As a child I enjoyed #VERBING. My family taught me to #VERB. As a young adult I was trained in #VERBING.
+
+During the civil war, I was a #PARTY.
+
+During the battle of the marshes I was #BATTLE.
+
+Since the war, I focused on #SINCE.
